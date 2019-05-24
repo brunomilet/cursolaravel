@@ -1,2 +1,0 @@
-# cursolaravel
-Curso de Laravel
